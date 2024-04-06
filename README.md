@@ -4,7 +4,7 @@ This Is executable-file for linux that can monitor all devices in the network. i
 when you start the program in linux 
 
 ------------------------
-./output 
+./SPY 
 ------------------------
 SPY run and start working and show you all headers and requestes 
 
